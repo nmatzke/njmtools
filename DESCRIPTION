@@ -1,0 +1,8 @@
+Package: njmtools
+Title: Neat Jeneric Methods -- R tools and shortcuts by Nick Matzke
+Version: 0.0.0.9000
+Authors@R: person("Nicholas", "Matzke", email = "matzke@berkeley.edu", role = c("aut", "cre"))
+Description: Various tools and shortcuts for basic R procedures
+Depends: R (>= 3.2.2)
+License: GPL
+LazyData: true
